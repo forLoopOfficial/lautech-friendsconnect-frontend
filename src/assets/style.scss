@@ -1,0 +1,31 @@
+@import "~bulma";
+
+html {
+  background-color: #eee;
+}
+
+body, html {
+  height:  100%;
+  margin:  0px auto;
+  padding: 0px auto;
+  font: 400 16px/24px Roboto,sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  /* -webkit-text-size-adjust: 100%; */
+  -ms-text-size-adjust: 100%;
+  /* text-size-adjust: 100%; */
+}
+
+
+h4 {
+  font: 400 18px/32px Roboto,sans-serif;
+}
+
+.wrapper {
+  height:     auto;
+  min-height: 100%;
+  margin:     0px auto;
+  padding:    0px auto;
+}
+
